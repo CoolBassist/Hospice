@@ -3,7 +3,7 @@ A Basic programming language
 
 To use interpret using Python 3. 
 
-#How to use
+# How to use
 In this language there are "cells" that hold values, every cell initially contains the number 0.
 You can increase the value by typing "I" for increase, and decrease by "D".
 You can change cell by typing "L" for left and "R" for right. 
